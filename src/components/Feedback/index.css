@@ -1,0 +1,31 @@
+/* Write your CSS code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container2 {
+  background-color: #ffffff;
+  width: 40vw;
+  height: 40vh;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+}
+.emoji-container {
+  display: flex;
+  padding: 8px;
+  justify-content: center;
+}
+.list-Container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+.emoji-size {
+  width: 50px;
+}
